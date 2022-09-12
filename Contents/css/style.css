@@ -1,0 +1,17 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden !important;
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: "Anek Latin", sans-serif !important;
+}
+
+.content_container .row .col-md-8 {
+    height: 100vh !important;
+}
+
+.btn-primary {
+    background-color: #482880 !important;
+    border-color: #482880 !important;
+}
